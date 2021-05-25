@@ -47448,7 +47448,7 @@ jA:function(){var s=0,r=P.a5(t.H),q=this,p,o,n,m,l,k
 var $async$jA=P.a0(function(a,b){if(a===1)return P.a2(b,r)
 while(true)switch(s){case 0:k=C.au
 s=3
-return P.a7($.I8().TB("lib/app/data/map.json"),$async$jA)
+return P.a7($.I8().TB("https://nickkoroloff.github.io/test/lib/app/data/map.json"),$async$jA)
 case 3:s=2
 return P.a7(k.cI(0,b),$async$jA)
 case 2:m=b
@@ -47466,7 +47466,7 @@ hn:function(){var s=0,r=P.a5(t.z),q=this
 var $async$hn=P.a0(function(a,b){if(a===1)return P.a2(b,r)
 while(true)switch(s){case 0:s=2
 return P.a7(q.jA(),$async$hn)
-case 2:q.lq("lib/app/data/1554187288for-king--country-56b4d64717b9e.png")
+case 2:q.lq("https://nickkoroloff.github.io/test/lib/app/data/1554187288for-king--country-56b4d64717b9e.png")
 q.Fm()
 return P.a3(null,r)}})
 return P.a4($async$hn,r)},
