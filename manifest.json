@@ -1,6 +1,6 @@
 {
-    "name": "epaytime",
-    "short_name": "epaytime",
+    "name": "purplepass",
+    "short_name": "purplepass",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
