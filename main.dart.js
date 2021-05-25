@@ -15811,7 +15811,7 @@ p1:function(a){var s
 if(P.UV(a,0,null).gBT())return P.GQ(C.e7,a,C.D,!1)
 s=this.gJW()
 if(s==null)s=""
-return P.GQ(C.e7,s+("assets/"+a),C.D,!1)},
+return P.GQ(C.e7,s+("test/"+a),C.D,!1)},
 c8:function(a,b){return this.Ty(a,b)},
 Ty:function(a,b){var s=0,r=P.a5(t.B6),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$c8=P.a0(function(c,d){if(c===1){o=d
@@ -47448,7 +47448,7 @@ jA:function(){var s=0,r=P.a5(t.H),q=this,p,o,n,m,l,k
 var $async$jA=P.a0(function(a,b){if(a===1)return P.a2(b,r)
 while(true)switch(s){case 0:k=C.au
 s=3
-return P.a7($.I8().TB("/assets/lib/app/data/map.json"),$async$jA)
+return P.a7($.I8().TB("assets/lib/app/data/map.json"),$async$jA)
 case 3:s=2
 return P.a7(k.cI(0,b),$async$jA)
 case 2:m=b
